@@ -278,6 +278,30 @@ Multi-agent, Build-your-own
 - [Twitter](https://twitter.com/dysmemic)
 </details>
 
+## [APort](https://aport.io)
+Agent identity verification and policy enforcement for AI agents
+
+<details>
+
+### Category
+Security, Developer Tools
+
+
+### Description
+- Portable agent passports with capabilities and limits
+- Sub-100ms policy checks with global suspend capability
+- Multi-level assurance: email, GitHub, domain verification
+- Platform agnostic middleware for any web framework
+- Pre-built policy packs for common actions (refunds, data export, PR merges)
+
+
+### Links
+- Website: [aport.io](https://aport.io)
+- Documentation: [aport.io/docs](https://aport.io/docs)
+- GitHub: [aporthq](https://github.com/aporthq)
+- Discord: [discord.gg/aport](https://discord.gg/aport)
+</details>
+
 ## [Aider](https://github.com/paul-gauthier/aider)
 Use command line to edit code in your local repo
 
